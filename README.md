@@ -1,5 +1,6 @@
 # Scavenge Game Locale
 Localization files for the "Scavenge Game" by Orsoniks.
+Fork containing basque translation (currently WIP) by maser
 
 # Authors
 | File                       | Contributors                                                                                                        |
