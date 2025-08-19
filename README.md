@@ -6,6 +6,7 @@ Fork containing basque translation (currently WIP) by maser
 | File                       | Contributors                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [English (EN)](/EN.json)   | [Orsoniks](https://github.com/Orsoniks)                                                                             |
+| [Euskera(EU)](/EU(WIP).json)   | [Maser](https://github.com/masertank)                                                                             |
 | [Français (FR)](/FR.json)  | [Azurian](https://github.com/clemtomera)                                                                            |                                                                             |
 | [Русский (RU)](/RU.json)   | [Tairel](https://github.com/Tairelol), [olv](https://github.com/Ol1vver), [Flam3masterr](https://github.com/Flam3masterr)                                         |
 | [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake), [a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu)     |
